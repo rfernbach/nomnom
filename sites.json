@@ -1,0 +1,28 @@
+[
+  {
+    "name": "<name of the restaurant>",
+    "url": "<url for the static lunch menu>",
+    "_comment":"daypaths begin on sunday",
+    "dayPaths": [
+      "<xpath for sunday's menu item or empty>",
+      "<xpath for monday's menu item>",
+	  "<xpath for tuesday's menu item>",
+	  "<xpath for wednesday's menu item>",
+	  "<xpath for thursday's menu item>",
+	  "<xpath for friday's menu item>",
+    ]
+  },
+  {
+    "name": "<name of the another restaurant>",
+    "url": "<url for the static lunch menu>",
+    "_comment":"daypaths begin on sunday",
+    "dayPaths": [
+      "<xpath for sunday's menu item or empty>",
+      "<xpath for monday's menu item>",
+	  "<xpath for tuesday's menu item>",
+	  "<xpath for wednesday's menu item>",
+	  "<xpath for thursday's menu item>",
+	  "<xpath for friday's menu item>",
+    ]
+  },
+]

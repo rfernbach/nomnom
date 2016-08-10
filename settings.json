@@ -1,0 +1,10 @@
+{
+  "serverEndpoint": "/nomnom",
+  "port": 4443,
+  "httpPort": 8080,
+  "authUrl": "https://login.microsoftonline.com/common/oauth2/v2.0/token",
+  "apiUrl": "https://skype.botframework.com",
+  "botId": "<Bot app ID>",
+  "botSecret": "<Bot secret password>",
+  "activityEndpoint": "/v3/conversations/<conversationId>/activities"
+}
